@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    font-family: 'Otomanopee One', sans-serif;
+}
+.top-nav{
+    background-color:black;
+    overflow: hidden; 
+}
+.top-nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.top-nav a:hover{
+    background-color: #2f39d0;
+    color: peru;
+}
+.introductions h1{
+    font-size: 40px;  
+}
+.introductions a {
+    text-decoration: none;
+    background-color:#2f39d0;
+    color: white;
+    font-weight: 700;
+    border-radius: 15px;
+    padding: 10px 40px;
+}
+.introductions{
+    width: 50%;
+    padding-left: 5%;
+}
+.introductions img{
+    width: 100%;
+}
+.flexible-container{
+    display: flex;
+}
+.bottom-nav{
+    overflow: hidden; 
+}
+.bottom-nav a:link{
+    color: #2f39d0;
+}
+.bottom-nav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.bottom-nav a:hover{
+    background-color:#2f39d0 ;
+    color: peru;
+}
+.bottom-nav a:active{
+    background-color:#2f39d0 ;
+    color: peru;
+}
+.life-style img{
+    width:100%
+}
+.life-style{
+    width: 50%;
+}
+#A-bit-style{
+    margin-top: 100px;
+    padding-top: 100px;
+}
+
